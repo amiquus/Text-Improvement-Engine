@@ -1,4 +1,4 @@
-# Standard Phrase Suggestion Tool
+# Text Improvement Engine
 
 ## Description
 This Python project includes a script for suggestions of stard. It utilizes Natural Language Processing (NLP) techniques to match phrases in a text file to a set of standard terms, and it calculates similarity scores between these phrases.
@@ -18,7 +18,7 @@ This Python project includes a script for suggestions of stard. It utilizes Natu
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/amiquus/CompoundGroup.git
+   git clone https://github.com/amiquus/Text-Improvement-Engine.git
    cd your-repo-name
    ```
 
